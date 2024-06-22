@@ -107,3 +107,14 @@ footer {
     margin-top: 20px;
     border-top: #0779e4 3px solid;
 }
+
+.skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    padding: 0;
+}
+.skills-list li {
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
